@@ -1,6 +1,6 @@
 # RASTGELE ÖĞRENCİ VE SINAV  NOTLARI ÜRETEN PROGRAM
 
-
+Açıklama: Bu projede kullanıcı 0 ile 2500 arası öğrenci sayısını seçecek ve daha sonra kullanıcıdan D-Y şeklinde 10 soruluk bir cevap anahtarı seçmesi istenecektir. Kullanıcının seçtiği öğrenci sayısına göre öğrenciler adı, soyadı, yaşı, cevapları ve notu şeklinde oluşturulacaktır. Daha sonra her öğrenciye rastgele soru cevapları atanacak ve daha sonra kullanıcının seçtiği cevap anahtarı ile karşılaştırılıp öğrencinin notu hesaplanacaktır. Son olarak öğrenciler adı, soyadı, yaşı, notu ve dogru, yanlışları şeklinde kullanıcının isteğine göre sıralanıp ekrana yazdırılacaktır.  
 
 # Gereklilikler 
 
