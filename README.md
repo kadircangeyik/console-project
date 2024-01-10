@@ -1,0 +1,2 @@
+# console project
+ RASTGELE ÖĞRENCİ VE SINAV  NOTLARI ÜRETEN PROGRAM
