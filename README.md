@@ -22,13 +22,13 @@ anahtarına göre değerlendirilmelidir.
 # Sonuçlar:
 
 
-100 Öğrenci
+100 Öğrenci Test
 ![image](https://github.com/kadircangeyik/console-project/blob/main/100_ogrenci_ekran.png)
 
 
-1000 Öğrenci
+1000 Öğrenci Test
 ![image](https://github.com/kadircangeyik/console-project/blob/main/1000_ogrenci_ekran.png)
 
 
-2000 Öğrenci
+2000 Öğrenci Test
 ![image](https://github.com/kadircangeyik/console-project/blob/main/2000_ogrenci_ekran.png)
