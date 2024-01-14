@@ -2,7 +2,7 @@
 
 Açıklama: Bu projede kullanıcı 0 ile 2500 arası öğrenci sayısını seçecek ve daha sonra kullanıcıdan D-Y şeklinde 10 soruluk bir cevap anahtarı seçmesi istenecektir. Kullanıcının seçtiği öğrenci sayısına göre öğrenciler adı, soyadı, yaşı, cevapları ve notu şeklinde oluşturulacaktır. Daha sonra her öğrenciye rastgele soru cevapları atanacak ve daha sonra kullanıcının seçtiği cevap anahtarı ile karşılaştırılıp öğrencinin notu hesaplanacaktır. Son olarak öğrenciler adı, soyadı, yaşı, notu ve dogru, yanlışları şeklinde kullanıcının isteğine göre sıralanıp ekrana yazdırılacaktır.  
 
-# Gereklilikler 
+# Aşamalar
 
 1. Öncelikle ad.txt ve soyad.txt isimli iki dosya oluşturulup, bu iki dosyaya 50 farklı ad ve soyad eklenmelidir.
 2. Program çalıştığında ilk olarak 10 tane Doğru/Yanlış sorusuna ait cevap anahtarı kullanıcı tarafından 
